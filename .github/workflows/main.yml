@@ -24,10 +24,7 @@ jobs:
     - name: 安装Python
       uses: actions/setup-python@v3
       with:
-        python-version: '3.x'
-    - uses: aws-actions/setup-sam@v2
-      with:
-            use-installer: true        
+        python-version: '3.x'   
     - name: 加载缓存
       uses: actions/cache@v3
       with:
