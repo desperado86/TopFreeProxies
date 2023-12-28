@@ -43,8 +43,8 @@ jobs:
       
     - name: 提交更改
       run: |                 
-         git config --local user.email "alan999@foxmail.com"
-         git config --local user.name "alanbobs999"
+         git config --local user.email "jerry@hotmail.com"
+         git config --local user.name "jerry"
          git add ./sub
          git add ./utils
          # git commit -m "Merge sub lists"
