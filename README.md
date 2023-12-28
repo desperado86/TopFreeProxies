@@ -1,6 +1,3 @@
-## 访客数
-
-![Visitor's Count](https://profile-counter.glitch.me/Ckomatsuo_TopFreeProxies/count.svg)
 # TopFreeProxies
 
 ## 仓库介绍
@@ -65,6 +62,4 @@
 
 订阅节点仅作学习交流使用，只是对网络上节点的优选排序，用于查找资料，学习知识，不做任何违法行为。所有资源均来自互联网，仅供大家交流学习使用，出现违法问题概不负责。
 
-## 星标统计
 
-[![Stargazers over time](https://starchart.cc/Ckomatsuo/TopFreeProxies.svg)](https://starchart.cc/Ckomatsuo/TopFreeProxies)
